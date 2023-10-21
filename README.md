@@ -32,6 +32,8 @@ I use a whole mix of tech to get all this running.
 
 8. A basic publishing Github Actions workflow is provided configured with [changesets](https://github.com/changesets/changesets).
 
+9. A `web` packages configuration for anything that might be published online
+
 ## License
 
 [MIT License](./LICENSE)
